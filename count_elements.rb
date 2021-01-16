@@ -1,4 +1,4 @@
-def count_elements(array)
-  # code goes here
+def count_elements(arg)
+ return arg.tally
 end
  
